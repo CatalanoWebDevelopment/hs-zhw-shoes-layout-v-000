@@ -28,7 +28,8 @@
 }
 
 .col-2 {
-  width:54.66%; 
+  width:54.66%;
+  float: left;
 }
 
 .col-1 {
